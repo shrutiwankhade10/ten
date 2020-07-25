@@ -30,6 +30,8 @@ public class FlipTest extends base {
 		Log.info("alright");
 		Log.debug("hello");
 		Log.info("shruti");
+		Log.debug("hello");
+		Log.info("shruti");
 		
 	}
 	
