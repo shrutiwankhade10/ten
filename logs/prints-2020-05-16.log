@@ -1,0 +1,9 @@
+16:31:46.083 [TestNG-tests-1] INFO  Startin.base - done
+16:34:09.306 [TestNG-tests-1] INFO  Startin.base - alright
+16:34:09.307 [TestNG-tests-1] DEBUG Startin.base - hello
+16:34:09.307 [TestNG-tests-1] INFO  Startin.base - shruti
+16:34:19.341 [TestNG-tests-1] INFO  Startin.base - done
+16:34:28.711 [TestNG-tests-1] INFO  Startin.base - done
+16:34:39.095 [TestNG-tests-1] INFO  Startin.base - done
+16:35:47.041 [TestNG-test=Test-1] INFO  Startin.base - alright
+16:35:47.044 [TestNG-test=Test-1] DEBUG Startin.base - hello

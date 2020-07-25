@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40106" started-at="2020-05-16T11:03:59Z" finished-at="2020-05-16T11:04:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40106" started-at="2020-05-16T11:03:59Z" finished-at="2020-05-16T11:04:39Z">
+      <class name="Startin.FlipTest">
+        <test-method status="PASS" signature="searchTe()[pri:0, instance:Startin.FlipTest@5a5a729f]" name="searchTe" duration-ms="10024" started-at="2020-05-16T11:03:59Z" finished-at="2020-05-16T11:04:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTe -->
+        <test-method status="PASS" signature="termi()[pri:0, instance:Startin.FlipTest@5a5a729f]" name="termi" is-config="true" duration-ms="143" started-at="2020-05-16T11:04:39Z" finished-at="2020-05-16T11:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termi -->
+        <test-method status="PASS" signature="termni()[pri:0, instance:Startin.LoginTest@4b520ea8]" name="termni" is-config="true" duration-ms="130" started-at="2020-05-16T11:04:39Z" finished-at="2020-05-16T11:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termni -->
+      </class> <!-- Startin.FlipTest -->
+      <class name="Startin.LoginTest">
+        <test-method status="PASS" signature="loginMe(java.lang.String, java.lang.String)[pri:0, instance:Startin.LoginTest@4b520ea8]" name="loginMe" duration-ms="10029" started-at="2020-05-16T11:04:09Z" data-provider="getData" finished-at="2020-05-16T11:04:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fsgg@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jjgkjsb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMe -->
+        <test-method status="PASS" signature="loginMe(java.lang.String, java.lang.String)[pri:0, instance:Startin.LoginTest@4b520ea8]" name="loginMe" duration-ms="9369" started-at="2020-05-16T11:04:19Z" data-provider="getData" finished-at="2020-05-16T11:04:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jksh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jqgdkj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMe -->
+        <test-method status="PASS" signature="loginMe(java.lang.String, java.lang.String)[pri:0, instance:Startin.LoginTest@4b520ea8]" name="loginMe" duration-ms="10383" started-at="2020-05-16T11:04:28Z" data-provider="getData" finished-at="2020-05-16T11:04:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gdjh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jhsxuo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMe -->
+      </class> <!-- Startin.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
